@@ -1,0 +1,20 @@
+{
+  "files": {
+    "rangee.c": [
+      {
+        "id": "911ee72d-019b-43fa-bcdd-6fcd05d26f90",
+        "line": 1,
+        "version": 4,
+        "index": 0
+      }
+    ],
+    "salle_de_concert.h": [
+      {
+        "id": "8b6f8f9c-8282-40ab-925d-1ea93d52ddbe",
+        "line": 12,
+        "version": 1,
+        "index": 171
+      }
+    ]
+  }
+}
